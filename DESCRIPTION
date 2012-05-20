@@ -1,0 +1,5 @@
+<language en>
+<b>L6470 Triple Axis</b>
+<p>A breakout board for 3 L6470s to control the X, Y and Z axes of a CNC machine. This can be used for 3D printers, laser cutters or even milling machines.</p>
+<p>One advantage of the L6370 is that the acceleration, decceleration as well as a minimum and maximum speed are all managed by the chip. To move the motors it can be as simple as sending a "go to xxxx" or "move for xxxx" commands via SPI.</p>
+</language en>
