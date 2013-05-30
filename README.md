@@ -20,8 +20,8 @@ In addition to the 3 stepper motor drivers the board also contains connections f
 **To be checked**
 
 ###Power Supply Input###
-Motor supply: +8 to +45V at a maximum of 9A
-Logic supplu: +5V at a maximum of 0.2A
+* Motor supply: +8 to +45V at a maximum of 9A
+* Logic supply: +5V at a maximum of 0.2A
 
 Power can be supplied either via screw terminals or a PC PSU molex connector.
 
